@@ -1,2 +1,2 @@
 # smart_wheel_chair 
-# A smart wheelchair with adavance technology by using raspberry pi 
+# a smart wheelchair with an adavance technology by using raspberry pi 
